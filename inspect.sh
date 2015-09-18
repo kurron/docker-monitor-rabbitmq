@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker inspect postgresql-service 
+docker inspect rabbitmq-service 

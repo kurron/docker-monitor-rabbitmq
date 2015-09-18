@@ -1,4 +1,4 @@
 #!/bin/bash
 
-curl --verbose localhost:8400/operations/health | python -m json.tool
+curl --verbose localhost:8500/operations/health | python -m json.tool
 

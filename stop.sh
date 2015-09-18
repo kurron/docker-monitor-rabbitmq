@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker stop postgresql-service 
-docker rm postgresql-service 
+docker stop rabbitmq-service 
+docker rm rabbitmq-service 

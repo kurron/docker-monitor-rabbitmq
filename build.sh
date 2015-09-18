@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build --pull --tag="kurron/monitor-postgresql:latest" .
+docker build --pull --tag="kurron/monitor-rabbitmq:latest" .
 docker images
