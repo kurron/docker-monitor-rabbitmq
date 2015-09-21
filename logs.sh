@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker logs --follow=true --tail=all rabbitmq-service 
+docker logs --follow=true --tail=25 rabbitmq-service
